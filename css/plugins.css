@@ -40,3 +40,7 @@
 
 /* == swiper.min font == */
 @import url("plugins/swiper.min.css");
+
+@import url("plugins/helper.css");
+
+@import url("plugins/prism.css");
